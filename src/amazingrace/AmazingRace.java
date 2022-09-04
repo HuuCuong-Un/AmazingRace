@@ -78,5 +78,7 @@ public class AmazingRace {
         //Bài AmazingRace bắt tụi nhỏ chạy 1ượt  để ghi nhận thành tích
         //ta so sánh trên thành tích chạy này
         
+        //hii sửa nè
+        
     }
 }
